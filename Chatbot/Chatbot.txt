@@ -1,0 +1,5 @@
+NLP stands for Natural Language Processing.
+Natural Language Processing is a branch of artificial intelligence.
+NLP is used for tasks like text classification, sentiment analysis, and machine translation.
+Tokenization in NLP breaks down text into smaller parts like words or sentences.
+Lemmatization is the process of reducing words to their base form.
